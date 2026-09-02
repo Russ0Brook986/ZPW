@@ -1,0 +1,8 @@
+repozytorium - miejsce, w którym przechowuje się pliki projektu oraz historię wszystkich wprowadzonych zmian
+github/bitbucket/gitlab - internetowe serwisy, które pozwalają przechowywać repozytoria Git, udostępniać je i współpracować nad projektami
+git - system kontroli wersji służący do śledzenia zmian w plikach i zarządzania historią projektu
+commit - zapisanie zmian w projekcie jako konkretnego punktu w jego historii
+branch - osobna gałąź projektu, na której można pracować nad zmianami niezależnie od głównej wersji
+checkout - przełączenie się na inną gałąź lub konkretną wersję projektu
+merge - połączenie zmian z jednej gałęzi z drugą, np. z główną gałęzią
+rebase - przeniesienie zmian na podstawę innej gałęzi, dzięki czemu historia projektu może być bardziej uporządkowana
